@@ -170,6 +170,10 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+		
+		//CUSTOM COLOURS ==============================================================
+		"LightGreen" 			"0 255 0 255"
+		"DarkGreen" 			"0 80 0 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////

@@ -18,8 +18,8 @@
 		"enabled" "1"
 		"xpos"	"c100"	[$WIN32]
 		"ypos"	"c70"	[$WIN32]
-		"wide"	"94"
-		"tall"	"45"
+		"wide"	"140"
+		"tall"	"100"
 	}
 	
 	HudObjectiveStatus
